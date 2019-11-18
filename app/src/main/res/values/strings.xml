@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Firebase-Demo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_settings_header">User Settings</string>
+    <string name="sign_out_descriptor">This should send the user back to the initial FirebaseUI Sign-in Screen, allowing them to sign back in if they wish. This button should not be visible to anonymous users as they don\'t have an account.</string>
+    <string name="sign_out_button_text">Sign Out</string>
+    <string name="delete_account_descriptor">This will delete the users account and you should convey the seriousness of this operation to the user. This should also send the user back to the FirebaseUI Sign-in screen. This button should also not be visible to anonymous users as they don\'t have an account.</string>
+    <string name="delete_account_button_text">Delete Account</string>
+    <string name="create_account_descriptor">This should only be displayed to the user if they are signed in anonymously (a signed in user would have no reason to create an account again). This should send the user to a new FirebaseUI sign-in screen NOT the initial one</string>
+    <string name="create_account_button_text">Create Account</string>
+    <string name="anon_user_text">You are currently signed in Anonymously so no Name, Email or Phone Number will be collected.</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="email_label">Email:</string>
+    <string name="name_label">Name:</string>
+    <string name="welcome_user_header">Welcome User! \n Your Information:</string>
+    <string name="welcome_menu_item">Welcome</string>
+    <string name="settings_menu_item">Settings</string>
+</resources>
