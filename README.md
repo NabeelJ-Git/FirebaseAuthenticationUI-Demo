@@ -5,3 +5,5 @@ https://medium.com/@nabeelj/how-to-add-firebase-authentication-into-your-android
 
 Part 2:
 https://medium.com/@nabeelj/implementing-signing-out-deleting-accounts-and-upgrading-anonymous-users-with-firebaseui-3f5f9dc235ab?sk=0da22e654cf15c046259f258edf7e8e5
+
+Note: You are free to use any part of this code for your own personal or commercial works. However, if you want to run this application on your device on its own you will need to provide your own google-services.json file.
